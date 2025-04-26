@@ -3,7 +3,7 @@
 - 👀 I’m interested in software development, machine learning, cybersecurity, and cloud technologies.
 - 🌱 I’m currently learning advanced backend development, AI model deployment, and system design.
 - 💞️ I’m looking to collaborate on open-source projects, AI research, and innovative tech startups.
-- 📫 How to reach me: [Email me](mailto:your-email@example.com) | [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 📫 How to reach me: [Email me](timeastw@gmail.com) | [Connect on LinkedIn](https://www.linkedin.com/in/timothy-simwawa-3a6bb1339/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love solving complex problems, whether it's debugging code or figuring out the best way to automate daily tasks!
 
