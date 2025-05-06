@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ComputeAce
+# 👋 Hi, I’m Timothy Simwawa @ComputeAce
 
 - 👀 I’m interested in software development, machine learning, cybersecurity, and cloud technologies.
 - 🌱 I’m currently learning advanced backend development, AI model deployment, and system design.
